@@ -1,3 +1,6 @@
 [submodule "3toN-frontend"]
 	path = 3toN-frontend
 	url = git@github.com:satwikkansal/3toN-frontend.git
+[submodule "3toN-backend"]
+	path = 3toN-backend
+	url = git@github.com:satwikkansal/3toN-backend.git
